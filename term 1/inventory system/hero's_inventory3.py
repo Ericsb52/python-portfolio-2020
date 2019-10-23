@@ -1,55 +1,5 @@
 # Hero's Inventory 3.0
 # Demonstrates lists
-#testing how to pull
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # create a list with some items and display with a for loop
 inventory = ["sword", "armor", "shield", "healing potion"]
 print("Your items:")
